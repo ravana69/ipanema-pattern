@@ -1,0 +1,19 @@
+html, body, svg {
+  width:100%;
+  height:100%;
+  margin:0;
+  padding:0;
+}
+
+body {
+  overflow:hidden;
+  background:#1c5a2c;
+  display:flex;
+  align-items:center;
+  justify-content:center;
+}
+
+svg {
+  max-width:1600px;
+  max-height:1200px;
+}
